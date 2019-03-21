@@ -17,6 +17,7 @@ public class HelloGitHub
   {
     System.out.println("Hello GitHub");
     System.out.println("Bye Github");
+    System.out.println("Hello Local");
   }
   
 }
